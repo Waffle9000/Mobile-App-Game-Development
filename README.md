@@ -26,9 +26,7 @@ adb devices
 ```
 
 Install the APK
-# Build steps:
-
-Check the phone is connected:
+# 
 
 ```
 adb install -r Builds/MyGame-dev.apk
@@ -37,9 +35,7 @@ adb install -r Builds/MyGame-dev.apk
 ```
 
 Launch the Game
-# Build steps:
 
-Check the phone is connected:
 
 ```
 adb shell monkey -p com.yourname.mygame 1
