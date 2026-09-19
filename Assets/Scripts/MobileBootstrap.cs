@@ -4,6 +4,8 @@ public class MobileBootstrap : MonoBehaviour
 {
     void Awake()
     {
+        //Comment
+
         // Android defaults to 30 fps when targetFrameRate is -1.
         Application.targetFrameRate = 60;
         // vSyncCount is ignored on Android; keep it at 0.
