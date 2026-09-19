@@ -43,3 +43,8 @@ adb logcat -s Unity
 # [Boot] SM-S911B | Android OS 15 / API-35 | Vulkan | 1080x2340 @ 425 dpi
 ```
 
+
+Keystore file location: C:\Users\achik\Desktop\Keystores
+Keystore file name: mygame-release.keystore
+Keystore Alias: mygame
+Validity: 50 years

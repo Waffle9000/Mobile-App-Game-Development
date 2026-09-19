@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "7c8202cfa913b1ca",
+    "id": "69243df933bf0484",
     "type": "split",
     "children": [
       {
-        "id": "5a1ffcd76526153a",
+        "id": "8026d43443a00a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "3ad4cf17bd6cc4f1",
+            "id": "e0594ce172656d24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "27ca69a777c16b19",
+    "id": "738de1f92458199d",
     "type": "split",
     "children": [
       {
-        "id": "65062ec170fe0bf4",
+        "id": "28d69730d1cd0b91",
         "type": "tabs",
         "children": [
           {
-            "id": "439d765178e0a774",
+            "id": "abd3416b0d9c9482",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "90575021f5fdaf7d",
+            "id": "f1d041433c93af9e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +67,7 @@
             }
           },
           {
-            "id": "bba560deeef5677f",
+            "id": "14e55808442c7add",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,19 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "80ac34aa8b8e25b2",
+    "id": "b53d7d08d842ae3e",
     "type": "split",
     "children": [
       {
-        "id": "3a1bdf7f88839499",
+        "id": "2e727eee63ea6a84",
         "type": "tabs",
         "children": [
           {
-            "id": "9c43c016655049fd",
+            "id": "f01aefb2f7556e28",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "W02-LabB-LabSheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +113,7 @@
             }
           },
           {
-            "id": "f0cf0731bab5ea6c",
+            "id": "fc287c1bb78cf254",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +126,7 @@
             }
           },
           {
-            "id": "89eac50894aa5bc5",
+            "id": "b4f42cdcbbe39bf6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +141,7 @@
             }
           },
           {
-            "id": "bc9e6da888f54731",
+            "id": "4fa457a5e98fe4d0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,7 +155,7 @@
             }
           },
           {
-            "id": "baf117077fe718f3",
+            "id": "70a602cf56296977",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -181,8 +186,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "3ad4cf17bd6cc4f1",
+  "active": "e0594ce172656d24",
   "lastOpenFiles": [
-    "Docs/README.md"
+    "Docs/journal.md",
+    "Docs/README.md",
+    "Docs/mda-onepager.md",
+    "Labsheets/W02-LabB-LabSheet.md",
+    "Labsheets/W02-LabA-LabSheet (1).md",
+    "Labsheets/W01-LabSheet.md",
+    "README.md",
+    "Untitled",
+    "Docs",
+    "Welcome.md",
+    "mygame-release.keystore",
+    "Labsheets"
   ]
 }
