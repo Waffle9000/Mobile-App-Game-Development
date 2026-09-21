@@ -3,10 +3,10 @@
 2 - Endless Runner
 
 # Phone Model:
- Will be using Emulator
+ Galaxy A02s
 
 # Android Version:
-Will be using Emulator, will update later,
+12
 
 # [Boot] line info
 20L8S76701 (LENOVO) | Windows 11  (10.0.26200) | Direct3D11 | 1223x510 @ 120 dpi
