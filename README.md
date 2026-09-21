@@ -9,10 +9,8 @@
 12
 
 # [Boot] line info
-20L8S76701 (LENOVO) | Windows 11  (10.0.26200) | Direct3D11 | 1223x510 @ 120 dpi
-UnityEngine.Debug:Log (object)
-MobileBootstrap:Awake () (at Assets/Scripts/MobileBootstrap.cs:14)
 
+[Boot] samsung SM-A025F | Android OS 12 / API-31 (SP1A.210812.016/A025FXXS8CXH1) | OpenGLES3 | 720x1600 @ 280 dpi
 
 
 # Build steps:
