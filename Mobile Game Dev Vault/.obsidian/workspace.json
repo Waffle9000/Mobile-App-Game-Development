@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Labsheets/W02-LabA-LabSheet (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "W02-LabA-LabSheet (1)"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "3ad4cf17bd6cc4f1",
   "lastOpenFiles": [
+    "README.md",
     "Labsheets/W02-LabA-LabSheet (1).md",
     "Labsheets/W01-LabSheet.md",
     "Labsheets/W03-LabA-LabSheet.md",

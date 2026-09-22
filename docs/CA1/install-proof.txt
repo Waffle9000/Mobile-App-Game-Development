@@ -1,2 +1,5 @@
+Date: 21/09/2026
+Device Modek: Galaxy A02s
+APK Name: MyGame-0.1.0.apk
 Performing Streamed Install
 Success

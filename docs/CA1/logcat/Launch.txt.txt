@@ -1,0 +1,619 @@
+0001/01/01 00:00:00.000 -1 -1 Info  --------- beginning of main
+2026/09/22 13:03:18.357 18437 18437 Info .archil.Whoppe Late-enabling -Xcheck:jni
+2026/09/22 13:03:18.433 18437 18437 Info .archil.Whoppe Using CollectorTypeCC GC.
+2026/09/22 13:03:18.444 18437 18437 Error USNET USNET: appName: com.archil.Whopper
+2026/09/22 13:03:18.449 18437 18437 Debug ProcessState Binder ioctl to enable oneway spam detection failed: Invalid argument
+2026/09/22 13:03:18.453 18437 18437 Debug ActivityThread setConscryptValidator
+2026/09/22 13:03:18.453 18437 18437 Debug ActivityThread setConscryptValidator - put
+0001/01/01 00:00:00.000 -1 -1 Info  --------- beginning of system
+2026/09/22 13:03:18.479 18437 18437 Debug ActivityThread handleBindApplication()++ app=com.archil.Whopper
+2026/09/22 13:03:18.482 18437 18437 Debug CompatibilityChangeReporter Compat change id reported: 171979766; UID 10228; state: ENABLED
+2026/09/22 13:03:18.502 18437 18437 Warn ziparchive Unable to open '/data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/base.dm': No such file or directory
+2026/09/22 13:03:18.502 18437 18437 Warn ziparchive Unable to open '/data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/base.dm': No such file or directory
+2026/09/22 13:03:18.771 18437 18437 Debug nativeloader Configuring classloader-namespace for other apk /data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/lib/arm:/data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/base.apk!/lib/armeabi-v7a, permitted_path=/data:/mnt/expand:/data/user/0/com.archil.Whopper
+2026/09/22 13:03:18.786 18437 18437 Verbose GraphicsEnvironment ANGLE Developer option for 'com.archil.Whopper' set to: 'default'
+2026/09/22 13:03:18.786 18437 18437 Verbose GraphicsEnvironment Neither updatable production driver nor prerelease driver is supported.
+2026/09/22 13:03:18.790 18437 18437 Debug LoadedApk LoadedApk::makeApplication() appContext.mOpPackageName=com.archil.Whopper appContext.mBasePackageName=com.archil.Whopper
+2026/09/22 13:03:18.791 18437 18437 Debug NetworkSecurityConfig No Network Security Config specified, using platform default
+2026/09/22 13:03:18.840 18437 18437 Debug NetworkSecurityConfig No Network Security Config specified, using platform default
+2026/09/22 13:03:18.873 18437 18437 Debug ActivityThread handleBindApplication() --
+2026/09/22 13:03:18.915 18437 18437 Debug GameActivity GameActivity_register
+2026/09/22 13:03:19.011 18437 18437 Debug AppCompatDelegate Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2026/09/22 13:03:19.045 18437 18437 Debug gti.InputConnection InputConnection created
+2026/09/22 13:03:19.047 18437 18437 Debug gti.InputConnection setEditorInfo
+2026/09/22 13:03:19.068 18437 18437 Info DecorView [INFO] isPopOver=false, config=true
+2026/09/22 13:03:19.068 18437 18437 Info DecorView updateCaptionType >> DecorView@a431b09[], isFloating=false, isApplication=true, hasWindowControllerCallback=true, hasWindowDecorCaption=false
+2026/09/22 13:03:19.069 18437 18437 Debug DecorView setCaptionType = 0, this = DecorView@a431b09[]
+2026/09/22 13:03:19.076 18437 18437 Info DecorView getCurrentDensityDpi: from real metrics. densityDpi=280 msg=resources_loaded
+2026/09/22 13:03:19.099 18437 18437 Warn .archil.Whoppe Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2026/09/22 13:03:19.100 18437 18437 Warn .archil.Whoppe Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2026/09/22 13:03:19.171 18437 18437 Info IL2CPP JNI_OnLoad
+2026/09/22 13:03:19.171 18437 18437 Verbose Unity Context Type: GameActivity
+2026/09/22 13:03:19.173 18437 18437 Debug Unity CommandLine:  
+2026/09/22 13:03:19.210 18437 18437 Info GameActivity Looking for library libgame.so
+2026/09/22 13:03:19.211 18437 18437 Info GameActivity Found library libgame.so. Loading...
+2026/09/22 13:03:19.216 18437 18437 Debug GameActivity SDK version: 31
+2026/09/22 13:03:19.216 18437 18461 Info Unity UnityApplication::CreateInstance
+2026/09/22 13:03:19.217 18437 18461 Info Unity GameActivity Package Version '4.4.0'
+2026/09/22 13:03:19.218 18437 18461 Info Unity Starting Game Loop
+2026/09/22 13:03:19.313 18437 18461 Info Unity Handle cmd APP_CMD_START(11)
+2026/09/22 13:03:19.318 18437 18437 Info Unity onResume
+2026/09/22 13:03:19.318 18437 18437 Info Unity resumeUnity
+2026/09/22 13:03:19.326 18437 18461 Info Unity Handle cmd APP_CMD_RESUME(12)
+2026/09/22 13:03:19.340 18437 18437 Debug InsetsSourceConsumer setRequestedVisible: visible=false, type=21, host=com.archil.Whopper/com.unity3d.player.UnityPlayerGameActivity, from=android.view.InsetsSourceConsumer.hide:253 android.view.InsetsController.collectSourceControls:1215 android.view.InsetsController.controlAnimationUnchecked:1077 android.view.InsetsController.applyAnimation:1456 android.view.InsetsController.applyAnimation:1437 android.view.InsetsController.hide:1006 android.view.InsetsController.hide:981 android.view.PendingInsetsController$HideRequest.replay:241 android.view.PendingInsetsController.replayAndAttach:172 android.view.ViewRootImpl.setView:1546 
+2026/09/22 13:03:19.341 18437 18437 Debug InsetsSourceConsumer setRequestedVisible: visible=false, type=20, host=com.archil.Whopper/com.unity3d.player.UnityPlayerGameActivity, from=android.view.InsetsSourceConsumer.hide:253 android.view.InsetsController.collectSourceControls:1215 android.view.InsetsController.controlAnimationUnchecked:1077 android.view.InsetsController.applyAnimation:1456 android.view.InsetsController.applyAnimation:1437 android.view.InsetsController.hide:1006 android.view.InsetsController.hide:981 android.view.PendingInsetsController$HideRequest.replay:241 android.view.PendingInsetsController.replayAndAttach:172 android.view.ViewRootImpl.setView:1546 
+2026/09/22 13:03:19.341 18437 18437 Debug InsetsSourceConsumer setRequestedVisible: visible=false, type=2, host=com.archil.Whopper/com.unity3d.player.UnityPlayerGameActivity, from=android.view.InsetsSourceConsumer.hide:253 android.view.InsetsController.collectSourceControls:1215 android.view.InsetsController.controlAnimationUnchecked:1077 android.view.InsetsController.applyAnimation:1456 android.view.InsetsController.applyAnimation:1437 android.view.InsetsController.hide:1006 android.view.InsetsController.hide:981 android.view.PendingInsetsController$HideRequest.replay:241 android.view.PendingInsetsController.replayAndAttach:172 android.view.ViewRootImpl.setView:1546 
+2026/09/22 13:03:19.341 18437 18437 Debug InsetsSourceConsumer setRequestedVisible: visible=false, type=1, host=com.archil.Whopper/com.unity3d.player.UnityPlayerGameActivity, from=android.view.InsetsSourceConsumer.hide:253 android.view.InsetsController.collectSourceControls:1215 android.view.InsetsController.controlAnimationUnchecked:1077 android.view.InsetsController.applyAnimation:1456 android.view.InsetsController.applyAnimation:1437 android.view.InsetsController.hide:1006 android.view.InsetsController.hide:981 android.view.PendingInsetsController$HideRequest.replay:241 android.view.PendingInsetsController.replayAndAttach:172 android.view.ViewRootImpl.setView:1546 
+2026/09/22 13:03:19.342 18437 18437 Debug InsetsSourceConsumer setRequestedVisible: visible=false, type=0, host=com.archil.Whopper/com.unity3d.player.UnityPlayerGameActivity, from=android.view.InsetsSourceConsumer.hide:253 android.view.InsetsController.collectSourceControls:1215 android.view.InsetsController.controlAnimationUnchecked:1077 android.view.InsetsController.applyAnimation:1456 android.view.InsetsController.applyAnimation:1437 android.view.InsetsController.hide:1006 android.view.InsetsController.hide:981 android.view.PendingInsetsController$HideRequest.replay:241 android.view.PendingInsetsController.replayAndAttach:172 android.view.ViewRootImpl.setView:1546 
+2026/09/22 13:03:19.353 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] setView = com.android.internal.policy.DecorView@a431b09 TM=true
+2026/09/22 13:03:19.371 18437 18437 Info SurfaceView@b676ac2 onWindowVisibilityChanged(0) true com.unity3d.player.UnityPlayerGameActivity$GameActivitySurfaceView{b676ac2 V.E...... ......I. 0,0-0,0 #7f080125 app:id/unitySurfaceView} of ViewRootImpl@d74811b[UnityPlayerGameActivity]
+2026/09/22 13:03:19.380 18437 18437 Verbose GameActivity onImeInsetsChanged from Text Listener
+2026/09/22 13:03:19.381 18437 18461 Info Unity Handle cmd APP_CMD_WINDOW_INSETS_CHANGED(17)
+2026/09/22 13:03:19.397 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=11 res=0x7 s={true 3374496768} ch=true fn=-1
+2026/09/22 13:03:19.400 18437 18437 Verbose GameActivity onImeInsetsChanged from Text Listener
+2026/09/22 13:03:19.400 18437 18461 Info Unity Handle cmd APP_CMD_WINDOW_INSETS_CHANGED(17)
+2026/09/22 13:03:19.403 18437 18437 Info SurfaceView@b676ac2 windowStopped(false) true com.unity3d.player.UnityPlayerGameActivity$GameActivitySurfaceView{b676ac2 V.E...... ......ID 0,0-720,1600 #7f080125 app:id/unitySurfaceView} of ViewRootImpl@d74811b[UnityPlayerGameActivity]
+2026/09/22 13:03:19.403 18437 18461 Info Unity Handle cmd APP_CMD_CONTENT_RECT_CHANGED(5)
+2026/09/22 13:03:19.405 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11420 android.view.ViewRootImpl.performTraversals:4193 android.view.ViewRootImpl.doTraversal:2919 
+2026/09/22 13:03:19.413 18437 18437 Info SurfaceView@b676ac2 pST: sr = Rect(0, 0 - 720, 1600) sw = 720 sh = 1600
+2026/09/22 13:03:19.413 18437 18437 Info SurfaceView@b676ac2 onSSPAndSRT: pl = 0 pt = 0 sx = 1.0 sy = 1.0
+2026/09/22 13:03:19.413 18437 18437 Info SurfaceView@b676ac2 pST: mTmpTransaction.apply, mTmpTransaction = android.view.SurfaceControl$Transaction@ee7f893
+2026/09/22 13:03:19.414 18437 18437 Info SurfaceView@b676ac2 updateSurface: mVisible = true mSurface.isValid() = true
+2026/09/22 13:03:19.414 18437 18437 Info SurfaceView@b676ac2 updateSurface: mSurfaceCreated = false surfaceChanged = true visibleChanged = true
+2026/09/22 13:03:19.415 18437 18437 Info SurfaceView@b676ac2 surfaceCreated 2 #8 com.unity3d.player.UnityPlayerGameActivity$GameActivitySurfaceView{b676ac2 V.E...... ......ID 0,0-720,1600 #7f080125 app:id/unitySurfaceView}
+2026/09/22 13:03:19.415 18437 18461 Info Unity Handle cmd APP_CMD_INIT_WINDOW(1)
+2026/09/22 13:03:19.415 18437 18437 Info SurfaceView@b676ac2 surfaceChanged (720,1600) 2 #8 com.unity3d.player.UnityPlayerGameActivity$GameActivitySurfaceView{b676ac2 V.E...... ......ID 0,0-720,1600 #7f080125 app:id/unitySurfaceView}
+2026/09/22 13:03:19.416 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] [DP] dp(2) 1 android.view.SurfaceView.updateSurface:1375 android.view.SurfaceView.lambda$new$1$SurfaceView:254 android.view.SurfaceView$$ExternalSyntheticLambda2.onPreDraw:2 
+2026/09/22 13:03:19.417 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] [DP] pdf(1) 1 android.view.SurfaceView.notifyDrawFinished:599 android.view.SurfaceView.performDrawFinished:586 android.view.SurfaceView.$r8$lambda$st27mCkd9jfJkTrN_P3qIGKX6NY:0 
+2026/09/22 13:03:19.417 18437 18437 Debug ViewRootImpl@d74811b[UnityPlayerGameActivity] pendingDrawFinished. Waiting on draw reported mDrawsNeededToReport=1
+2026/09/22 13:03:19.417 18437 18437 Debug ViewRootImpl@d74811b[UnityPlayerGameActivity] Creating frameDrawingCallback nextDrawUseBlastSync=false reportNextDraw=true hasBlurUpdates=false
+2026/09/22 13:03:19.418 18437 18437 Debug hw-ProcessState Binder ioctl to enable oneway spam detection failed: Invalid argument
+2026/09/22 13:03:19.419 18437 18437 Info Gralloc4 mapper 4.x is not supported
+2026/09/22 13:03:19.420 18437 18437 Warn Gralloc3 mapper 3.x is not supported
+2026/09/22 13:03:19.438 18437 18437 Warn Gralloc4 allocator 4.x is not supported
+2026/09/22 13:03:19.438 18437 18437 Warn Gralloc3 allocator 3.x is not supported
+2026/09/22 13:03:19.441 18437 18461 Info Unity MemoryManager: Using 'Dynamic Heap' Allocator.
+2026/09/22 13:03:19.441 18437 18461 Info Unity Mimalloc is enabled and will override the Dynamic Heap and Dual Thread (Main and MainThread) allocators.
+2026/09/22 13:03:19.442 18437 18461 Debug Unity [UnityMemory] Configuration Parameters - Can be set up in boot.config
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-temp-allocator-size-cloud-worker=32768"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-temp-allocator-size-audio-worker=65536"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-temp-allocator-size-preload-manager=262144"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-remapper-allocator-initial-capacity=32768"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-temp-allocator-size-gfx=262144"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-allocator-temp-initial-block-size-main=262144"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-allocator-temp-initial-block-size-worker=262144"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-temp-allocator-size-background-worker=32768"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-temp-allocator-size-job-worker=262144"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-bucket-allocator-granularity=16"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-bucket-allocator-bucket-count=8"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-bucket-allocator-block-size=4194304"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-bucket-allocator-block-count=1"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-main-allocator-block-size=16777216"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-thread-allocator-block-size=16777216"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-main-allocator-mimalloc-enabled=1"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-gfx-main-allocator-block-size=16777216"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-gfx-thread-allocator-block-size=16777216"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-cache-allocator-block-size=4194304"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-typetree-allocator-block-size=2097152"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-profiler-bucket-allocator-granularity=16"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-profiler-bucket-allocator-block-size=4194304"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-profiler-bucket-allocator-block-count=1"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-profiler-allocator-block-size=16777216"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-profiler-editor-allocator-block-size=1048576"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-temp-allocator-size-main=4194304"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-job-temp-allocator-block-size=2097152"
+2026/09/22 13:03:19.442 18437 18461 Debug Unity     "memorysetup-job-temp-allocator-block-size-background=1048576"
+2026/09/22 13:03:19.443 18437 18461 Debug Unity     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2026/09/22 13:03:19.452 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] [DP] pdf(0) 1 android.view.ViewRootImpl.performDraw:5207 android.view.ViewRootImpl.performTraversals:4212 android.view.ViewRootImpl.doTraversal:2919 
+2026/09/22 13:03:19.452 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] [DP] rdf()
+2026/09/22 13:03:19.452 18437 18437 Debug ViewRootImpl@d74811b[UnityPlayerGameActivity] reportDrawFinished (fn: -1) 
+2026/09/22 13:03:19.464 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] MSG_WINDOW_FOCUS_CHANGED 1 1
+2026/09/22 13:03:19.465 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:19.465 18437 18437 Info Unity windowFocusChanged: true
+2026/09/22 13:03:19.468 18437 18437 Debug InputMethodManager startInputInner - Id : 0
+2026/09/22 13:03:19.468 18437 18437 Info InputMethodManager startInputInner - mService.startInputOrWindowGainedFocus
+2026/09/22 13:03:19.477 18437 18461 Debug Unity Enabling Unity systrace
+2026/09/22 13:03:19.477 18437 18461 Debug Unity Starting Unity systrace
+2026/09/22 13:03:19.500 18437 18437 Debug InputMethodManager startInputInner - Id : 0
+2026/09/22 13:03:19.511 18437 18461 Debug Unity [VFS] Mount /data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/base.apk
+2026/09/22 13:03:19.515 18437 18461 Debug Unity Loading player data from /data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/base.apk/assets/bin/Data/data.unity3d
+2026/09/22 13:03:19.552 18437 18461 Error Unity java.lang.ClassNotFoundException: Didn't find class "com.google.android.play.core.assetpacks.AssetPackManager" on path: DexPathList[[zip file "/data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/base.apk"],nativeLibraryDirectories=[/data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/lib/arm, /data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/base.apk!/lib/armeabi-v7a, /system/lib, /system/system_ext/lib]]
+2026/09/22 13:03:19.558 18437 18437 Info DecorView notifyKeepScreenOnChanged: keepScreenOn=true
+2026/09/22 13:03:19.565 18437 18461 Info Unity SystemInfo CPU = ARMv7 VFPv3 NEON, Cores = 8, Memory = 3568mb
+2026/09/22 13:03:19.565 18437 18461 Info Unity SystemInfo ARM big.LITTLE configuration: 8 big (mask: 0xff), 0 little (mask: 0x0)
+2026/09/22 13:03:19.566 18437 18461 Info Unity ApplicationInfo 'com.archil.Whopper', Version '0.1.0', Min API Level '26', Target API Level '36'
+2026/09/22 13:03:19.566 18437 18461 Info Unity Built from '6000.6/respin/6000.6.0f1-fa21a270ab12' branch, Version '6000.6.0f1 (f7f8ed4d1e24)', Build type 'Development', Scripting Backend 'il2cpp', CPU 'armeabi-v7a', Stripping 'Enabled'
+2026/09/22 13:03:19.566 18437 18461 Info Unity Device Model 'samsung SM-A025F', OS 'Android OS 12 (API 31)'
+2026/09/22 13:03:19.570 18437 18461 Debug Unity Determine if il2cpp resources need to be extracted:
+2026/09/22 13:03:19.571 18437 18461 Debug Unity     il2cpp resources are up to date, not extracting
+2026/09/22 13:03:19.574 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=10 res=0x1 s={true 3374496768} ch=false fn=3
+2026/09/22 13:03:19.574 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] updateBoundsLayer: t = android.view.SurfaceControl$Transaction@85f0ddf sc = Surface(name=Bounds for - com.archil.Whopper/com.unity3d.player.UnityPlayerGameActivity@0)/@0x2d0a2c frame = 3
+2026/09/22 13:03:19.575 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] mWNT: t = android.view.SurfaceControl$Transaction@85f0ddf fN = 3 android.view.ViewRootImpl.prepareSurfaces:2778 android.view.ViewRootImpl.performTraversals:4024 android.view.ViewRootImpl.doTraversal:2919 
+2026/09/22 13:03:19.575 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] mWNT: merge t to BBQ
+2026/09/22 13:03:19.634 18437 18461 Debug Unity Remaining time:29s
+2026/09/22 13:03:19.634 18437 18461 Debug Unity Found NO interfaces on host .
+2026/09/22 13:03:19.636 18437 18461 Debug Unity Player connection [3299934656]  Target information:
+2026/09/22 13:03:19.636 18437 18461 Debug Unity 
+2026/09/22 13:03:19.636 18437 18461 Debug Unity Player connection [3299934656] Started UDP target info broadcast (1) on [225.0.0.222:54997].
+2026/09/22 13:03:19.636 18437 18461 Debug Unity 
+2026/09/22 13:03:19.636 18437 18461 Debug Unity Player connection [3299934656] Starting connection attempt to host, will retry for 10 seconds.
+2026/09/22 13:03:29.772 18437 18461 Error Unity Direct connection to host failed after retrying for 10 seconds. Switching to listen mode.
+2026/09/22 13:03:30.282 18437 18461 Debug Unity CodeReloadManager initialized
+2026/09/22 13:03:30.282 18437 18461 Debug Unity InitializeScriptEngine OK (0xf0b5dfa0)
+2026/09/22 13:03:30.282 18437 18461 Debug Unity [EGL] Attaching window :0xc922d808
+2026/09/22 13:03:30.299 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.300 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.301 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.303 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.304 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.305 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.306 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.308 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.309 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.310 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.311 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.312 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.313 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.314 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.315 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.317 18437 18461 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2026/09/22 13:03:30.330 18437 18461 Debug Unity Input System module state changed to: Initialized.
+2026/09/22 13:03:30.343 18437 18461 Debug Unity [Physics::Module] Initialized fallback backend.
+2026/09/22 13:03:30.343 18437 18461 Debug Unity [Physics::Module] Id: 0xdecafbad
+2026/09/22 13:03:30.344 18437 18461 Debug Unity Loading player data from assets/bin/Data/data.unity3d
+2026/09/22 13:03:30.348 18437 18461 Debug Unity PlayerInitEngineNoGraphics OK
+2026/09/22 13:03:30.348 18437 18461 Info Unity Company Name: DefaultCompany
+2026/09/22 13:03:30.348 18437 18461 Info Unity Product Name: Mobile App Game Dev
+2026/09/22 13:03:30.348 18437 18461 Debug Unity AndroidGraphics::Startup window =  0xc922d808
+2026/09/22 13:03:30.348 18437 18461 Debug Unity [EGL] Attaching window :0xc922d808
+2026/09/22 13:03:30.349 18437 18437 Verbose GameActivity onImeInsetsChanged from Text Listener
+2026/09/22 13:03:30.356 18437 18461 Debug Unity [Subsystems] Discovering subsystems at path /data/app/~~oC5eHwgJU__6NMjIiQJRpQ==/com.archil.Whopper-O3QECfru9OFD0pfrfcSWRQ==/base.apk/assets/bin/Data/UnitySubsystems
+2026/09/22 13:03:30.358 18437 18461 Info AdrenoGLES-0 QUALCOMM build                   : 5441528417, Id595308a47
+2026/09/22 13:03:30.358 18437 18461 Info AdrenoGLES-0 Build Date                       : 03/29/22
+2026/09/22 13:03:30.358 18437 18461 Info AdrenoGLES-0 OpenGL ES Shader Compiler Version: EV031.32.02.17
+2026/09/22 13:03:30.358 18437 18461 Info AdrenoGLES-0 Local Branch                     : 
+2026/09/22 13:03:30.358 18437 18461 Info AdrenoGLES-0 Remote Branch                    : 
+2026/09/22 13:03:30.358 18437 18461 Info AdrenoGLES-0 Remote Branch                    : 
+2026/09/22 13:03:30.358 18437 18461 Info AdrenoGLES-0 Reconstruct Branch               : 
+2026/09/22 13:03:30.358 18437 18461 Info AdrenoGLES-0 Build Config                     : S L 12.1.1 AArch32
+2026/09/22 13:03:30.358 18437 18461 Info AdrenoGLES-0 Driver Path                      : /vendor/lib/egl/libGLESv2_adreno.so
+2026/09/22 13:03:30.362 18437 18461 Info AdrenoGLES-0 PFP: 0x005ff114, ME: 0x005ff066
+2026/09/22 13:03:30.369 18437 18461 Debug Unity [EGL] Request: ES 3.2 RGB 000 0/0
+2026/09/22 13:03:30.371 18437 18461 Debug Unity [EGL] Checking ES 3.2 support...
+2026/09/22 13:03:30.375 18437 18461 Debug Unity [EGL] ES 3.2 support detected
+2026/09/22 13:03:30.376 18437 18461 Debug Unity [EGL] Found: ID[1] ES 3.2 RGB 565 0/0
+2026/09/22 13:03:30.376 18437 18461 Debug Unity GfxDevice: creating device client; kGfxThreadingModeThreaded
+2026/09/22 13:03:30.376 18437 18461 Debug Unity [EGL] Request: ES 3.2 RGB 000 0/0
+2026/09/22 13:03:30.377 18437 18461 Debug Unity [EGL] Found: ID[1] ES 3.2 RGB 565 0/0
+2026/09/22 13:03:30.377 18437 18461 Debug Unity [EGL] Request: ES 3.0 RGBA 8888 0/0
+2026/09/22 13:03:30.381 18437 18461 Debug Unity [EGL] Found: ID[9] ES 3.0 RGBA 8888 0/0
+2026/09/22 13:03:30.387 18437 18461 Debug Unity ANativeWindow: (720/1600) RequestedResolution: (0/0) RenderingResolution: (0/0) EGLSurface: (720/1600)
+2026/09/22 13:03:30.396 18437 18461 Debug Unity Renderer: Adreno (TM) 506
+2026/09/22 13:03:30.396 18437 18461 Debug Unity Vendor:   Qualcomm
+2026/09/22 13:03:30.396 18437 18461 Debug Unity Version:  OpenGL ES 3.2 V@0502.0 (GIT@5441528417, Id595308a47, 1648575532) (Date:03/29/22)
+2026/09/22 13:03:30.396 18437 18461 Debug Unity GLES:     3
+2026/09/22 13:03:30.396 18437 18461 Debug Unity  GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_sync GL_OES_vertex_half_float GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_compressed_ETC1_RGB8_texture GL_AMD_compressed_ATC_texture GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_hdr GL_OES_texture_compression_astc GL_OES_texture_npot GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_read_format_bgra GL_OES_texture_3D GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_QCOM_alpha_test GL_OES_depth24 GL_OES_packed_depth_stencil GL_OES_depth_texture GL_OES_depth_texture_cube_map GL_EXT_sRGB GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_EXT_texture_type_2_10_10_10_REV GL_EXT_texture_sRGB_decode GL_EXT_texture_format_sRGB_override GL_OES_element_index_uint GL_EXT_copy_image GL_EXT_geometry_shader GL_EXT_tessellation_shader GL_OES_texture_stencil8 GL_EXT_shader_io_blocks GL_OES_shader_image_atomic GL_OES_sample_variables GL_EXT_texture_b
+2026/09/22 13:03:30.396 18437 18461 Debug Unity order_clamp GL_EXT_EGL_image_external_wrap_modes GL_EXT_multisampled_render_to_texture GL_EXT_multisampled_render_to_texture2 GL_OES_shader_multisample_interpolation GL_EXT_texture_cube_map_array GL_EXT_draw_buffers_indexed GL_EXT_gpu_shader5 GL_EXT_robustness GL_EXT_texture_buffer GL_EXT_shader_framebuffer_fetch GL_ARM_shader_framebuffer_fetch_depth_stencil GL_OES_texture_storage_multisample_2d_array GL_OES_sample_shading GL_OES_get_program_binary GL_EXT_debug_label GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_QCOM_tiled_rendering GL_ANDROID_extension_pack_es31a GL_EXT_primitive_bounding_box GL_OES_standard_derivatives GL_OES_vertex_array_object GL_EXT_disjoint_timer_query GL_KHR_debug GL_EXT_YUV_target GL_EXT_sRGB_write_control GL_EXT_texture_norm16 GL_EXT_discard_framebuffer GL_OES_surfaceless_context GL_OVR_multiview GL_OVR_multiview2 GL_EXT_texture_sRGB_R8 GL_KHR_no_error GL_EXT_debug_marker GL_OES_EGL_image_external_essl3 GL_OVR_multiview_multisampled_render_to_texture GL_E
+2026/09/22 13:03:30.396 18437 18461 Debug Unity XT_buffer_storage GL_EXT_external_buffer GL_EXT_blit_framebuffer_params GL_EXT_clip_cull_distance GL_EXT_protected_textures GL_EXT_shader_non_constant_global_initializers GL_QCOM_texture_foveated GL_QCOM_shader_framebuffer_fetch_noncoherent GL_QCOM_shader_framebuffer_fetch_rate GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_EGL_image_array GL_NV_shader_noperspective_interpolation GL_KHR_robust_buffer_access_behavior GL_EXT_EGL_image_storage GL_EXT_blend_func_extended GL_EXT_clip_control GL_OES_texture_view GL_EXT_fragment_invocation_density GL_QCOM_YUV_texture_gather
+2026/09/22 13:03:30.405 18437 18461 Debug Unity OPENGL LOG: Creating OpenGL ES 3.2 graphics device ; Context level  <OpenGL ES 3.2> ; Context handle -249560832
+2026/09/22 13:03:30.409 18437 18461 Debug Unity [EGL] Attaching window :0xc922d808
+2026/09/22 13:03:30.410 18437 18461 Debug Unity Requested framebuffer: resolution[720x1600], rgba[8/8/8/8], depth+stencil[on], samples[1]
+2026/09/22 13:03:30.410 18437 18461 Debug Unity Created framebuffer: resolution[720x1600], rgba[8/8/8/8], depth+stencil[24/8], samples[0] 
+2026/09/22 13:03:30.419 18437 18461 Info SwappyWrapper SwappyWrapperInit() succeeded. Build: Mon Sep 21 20:05:52 2026
+2026/09/22 13:03:30.419 18437 18461 Debug Unity SwappyWrapper: InitSwappyWrapper() succeeded.
+2026/09/22 13:03:30.429 18437 18513 Debug Choreographer Attaching thread to JVM for AChoreographer
+2026/09/22 13:03:30.437 18437 18461 Error SwappyDisplayManager dalvik.system.InMemoryDexClassLoader[DexPathList[[dex file "InMemoryDexFile[cookie=[4116368896, 3375625472]]"],nativeLibraryDirectories=[/system/lib, /system/system_ext/lib]]] couldn't find "libgame.so"
+2026/09/22 13:03:30.439 18437 18514 Info SwappyDisplayManager Starting looper thread
+2026/09/22 13:03:30.442 18437 18461 Debug Unity [EGL] Attaching window :0xc922d808
+2026/09/22 13:03:30.442 18437 18461 Debug Unity Initialize engine version: 6000.6.0f1 (f7f8ed4d1e24)
+2026/09/22 13:03:30.442 18437 18461 Debug Unity [EntityIdStore] init: page-table path, blockCount=1048576, entitiesPerBlock=256, top-level=8388608 bytes, sizeof(Block)=4128 (lazily allocated per committed block)
+2026/09/22 13:03:30.461 18437 18461 Info AAudio AAudioStreamBuilder_openStream() called ----------------------------------------
+2026/09/22 13:03:30.461 18437 18461 Info AudioStreamBuilder rate   =  24000, channels  = 2, format   = 5, sharing = SH, dir = OUTPUT
+2026/09/22 13:03:30.461 18437 18461 Info AudioStreamBuilder device =      0, sessionId = 0, perfMode = 12, callback: ON with frames = 512
+2026/09/22 13:03:30.461 18437 18461 Info AudioStreamBuilder usage  =      0, contentType = 0, inputPreset = 0, allowedCapturePolicy = 0
+2026/09/22 13:03:30.461 18437 18461 Info AudioStreamBuilder privacy sensitive = false
+2026/09/22 13:03:30.461 18437 18461 Info AudioStreamBuilder opPackageName = (null)
+2026/09/22 13:03:30.461 18437 18461 Info AudioStreamBuilder attributionTag = (null)
+2026/09/22 13:03:30.461 18437 18461 Debug AudioStreamBuilder build() MMAP not used because sessionId specified.
+2026/09/22 13:03:30.461 18437 18461 Debug .archil.Whoppe PlayerBase::PlayerBase()
+2026/09/22 13:03:30.462 18437 18461 Debug AudioStreamTrack open(), request notificationFrames = 0, frameCount = 8192
+2026/09/22 13:03:30.470 18437 18461 Debug AudioTrack createTrack_l(1196585823): AUDIO_OUTPUT_FLAG_FAST denied by server; frameCount 8192 -> 8192
+2026/09/22 13:03:30.471 18437 18461 Debug AudioTrack setVolume(1.000000, 1.000000) pid : 18437
+2026/09/22 13:03:30.471 18437 18461 Debug AAudioStream setState(s#1) from 0 to 2
+2026/09/22 13:03:30.472 18437 18461 Debug AudioStreamTrack open() flags changed from 0x00000004 to 0x00000000
+2026/09/22 13:03:30.472 18437 18461 Debug AudioStreamTrack open() perfMode changed from 12 to 10
+2026/09/22 13:03:30.473 18437 18461 Info AAudio AAudioStreamBuilder_openStream() returns 0 = AAUDIO_OK for s#1 ----------------
+2026/09/22 13:03:30.475 18437 18461 Debug AAudio AAudioStream_requestStart(s#1) called --------------
+2026/09/22 13:03:30.475 18437 18461 Debug AAudioStream setState(s#1) from 2 to 3
+2026/09/22 13:03:30.477 18437 18461 Debug AAudio AAudioStream_requestStart(s#1) returned 0 ---------
+2026/09/22 13:03:30.479 18437 18454 Debug AudioStreamLegacy onAudioDeviceUpdate(deviceId = 3)
+2026/09/22 13:03:30.546 18437 18516 Debug AAudioStream setState(s#1) from 3 to 4
+2026/09/22 13:03:30.698 18437 18461 Debug Unity [Physics::Module] Selected backend.
+2026/09/22 13:03:30.698 18437 18461 Debug Unity [Physics::Module] Name: PhysX
+2026/09/22 13:03:30.698 18437 18461 Debug Unity [Physics::Module] Id: 0xf2b8ea05
+2026/09/22 13:03:30.698 18437 18461 Debug Unity [Physics::Module] SDK Version: 4.1.2
+2026/09/22 13:03:30.698 18437 18461 Debug Unity [Physics::Module] Integration Version: 1.0.0
+2026/09/22 13:03:30.698 18437 18461 Debug Unity [Physics::Module] Threading Mode: Multi-Threaded
+2026/09/22 13:03:31.014 18437 18461 Info IL2CPP Locale en-GB
+2026/09/22 13:03:31.061 18437 18461 Debug Unity PlayerInitEngineGraphics OK
+2026/09/22 13:03:31.091 18437 18461 Debug SensorManager registerListener :: 1, MC34XX ACCELEROMETER, 200000, 0, 
+2026/09/22 13:03:31.092 18437 18461 Info Unity     HasWindow = 1, HasFocus = 0
+2026/09/22 13:03:31.092 18437 18461 Info Unity Handle cmd APP_CMD_WINDOW_RESIZED(3)
+2026/09/22 13:03:31.092 18437 18461 Debug Unity NativeWindow resized 720x1600
+2026/09/22 13:03:31.095 18437 18461 Info Unity Handle cmd APP_CMD_WINDOW_REDRAW_NEEDED(4)
+2026/09/22 13:03:31.095 18437 18461 Info Unity Handle cmd APP_CMD_GAINED_FOCUS(7)
+2026/09/22 13:03:31.095 18437 18461 Info Unity Handle cmd APP_CMD_WINDOW_INSETS_CHANGED(17)
+2026/09/22 13:03:31.098 18437 18461 Debug Unity ANativeWindow: (720/1600) RequestedResolution: (0/0) RenderingResolution: (0/0) EGLSurface: (720/1600)
+2026/09/22 13:03:31.112 18437 18461 Verbose MediaRouter Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2026/09/22 13:03:31.113 18437 18461 Info MediaRouter Skip setBluetoothA2dpOn(): types=8388615, isPlaybackActive()=true, BT route=null
+2026/09/22 13:03:33.317 18437 18437 Debug GameActivity ************** mainWorkCallback *********
+2026/09/22 13:03:33.318 18437 18437 Debug gti.InputConnection setSoftKeyboardActive, active: false
+2026/09/22 13:03:33.320 18437 18437 Info IMM_LC hsifw() - flags=0, caller=android.view.inputmethod.InputMethodManager.hideSoftInputFromWindow:1858 android.view.inputmethod.InputMethodManager.hideSoftInputFromWindow:1827 com.google.androidgamesdk.gametextinput.InputConnection.setSoftKeyboardActive:156 android.os.MessageQueue.nativePollOnce:-2 android.os.MessageQueue.next:335 
+2026/09/22 13:03:33.320 18437 18437 Info IMM_LC hideSoftInputFromWindow - mService.hideSoftInput
+2026/09/22 13:03:33.322 18437 18461 Debug Unity UnloadTime: 5.503229 ms
+2026/09/22 13:03:33.323 18437 18437 Debug InputMethodManager startInputInner - Id : 0
+2026/09/22 13:03:33.323 18437 18437 Info InputMethodManager startInputInner - mService.startInputOrWindowGainedFocus
+2026/09/22 13:03:33.337 18437 18495 Debug Unity Curl error 6: Could not resolve: engine-data.unity3d.com:443
+2026/09/22 13:03:33.340 18437 18461 Debug Unity UUID: 4d281ba8d7467f2a => 22392c5acc46a5ed6485eee89df0381b
+2026/09/22 13:03:33.357 18437 18495 Debug Unity Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+2026/09/22 13:03:33.593 18437 18437 Info DecorView notifyKeepScreenOnChanged: keepScreenOn=true
+2026/09/22 13:03:33.597 18437 18461 Info Unity [Boot] samsung SM-A025F | Android OS 12 / API-31 (SP1A.210812.016/A025FXXS8CXH1) | OpenGLES3 | 720x1600 @ 280 dpi
+2026/09/22 13:03:33.597 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.597 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.597 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.597 18437 18461 Info Unity MobileBootstrap:Awake()
+2026/09/22 13:03:33.597 18437 18461 Info Unity 
+2026/09/22 13:03:33.613 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=12 res=0x1 s={true 3374496768} ch=false fn=5
+2026/09/22 13:03:33.613 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] updateBoundsLayer: t = android.view.SurfaceControl$Transaction@85f0ddf sc = Surface(name=Bounds for - com.archil.Whopper/com.unity3d.player.UnityPlayerGameActivity@0)/@0x2d0a2c frame = 5
+2026/09/22 13:03:33.614 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] mWNT: t = android.view.SurfaceControl$Transaction@85f0ddf fN = 5 android.view.ViewRootImpl.prepareSurfaces:2778 android.view.ViewRootImpl.performTraversals:4024 android.view.ViewRootImpl.doTraversal:2919 
+2026/09/22 13:03:33.614 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] mWNT: merge t to BBQ
+2026/09/22 13:03:33.622 18437 18437 Info DecorView notifyKeepScreenOnChanged: keepScreenOn=true
+2026/09/22 13:03:33.623 18437 18495 Debug Unity Curl error 6: Could not resolve: config.uca.cloud.unity3d.com:443
+2026/09/22 13:03:33.625 18437 18461 Debug Unity Using NDK Choreographer.
+2026/09/22 13:03:33.632 18437 18461 Debug Unity Stopping Unity systrace
+2026/09/22 13:03:33.643 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] Relayout returned: old=(0,0,720,1600) new=(0,0,720,1600) req=(720,1600)0 dur=10 res=0x1 s={true 3374496768} ch=false fn=6
+2026/09/22 13:03:33.643 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] updateBoundsLayer: t = android.view.SurfaceControl$Transaction@85f0ddf sc = Surface(name=Bounds for - com.archil.Whopper/com.unity3d.player.UnityPlayerGameActivity@0)/@0x2d0a2c frame = 6
+2026/09/22 13:03:33.644 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] mWNT: t = android.view.SurfaceControl$Transaction@85f0ddf fN = 6 android.view.ViewRootImpl.prepareSurfaces:2778 android.view.ViewRootImpl.performTraversals:4024 android.view.ViewRootImpl.doTraversal:2919 
+2026/09/22 13:03:33.644 18437 18437 Info ViewRootImpl@d74811b[UnityPlayerGameActivity] mWNT: merge t to BBQ
+2026/09/22 13:03:33.784 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/GaussianDepthOfField' is not supported or has been stripped from the build (in 'GaussianDepthOfField'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.Universal.DepthOfFieldGaussianPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.784 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.784 18437 18461 Info Unity 
+2026/09/22 13:03:33.785 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/GaussianDepthOfField' is not supported or has been stripped from the build (in 'GaussianDepthOfField'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.Universal.DepthOfFieldGaussianPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.785 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.785 18437 18461 Info Unity 
+2026/09/22 13:03:33.787 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/BokehDepthOfField' is not supported or has been stripped from the build (in 'BokehDepthOfField'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.Universal.DepthOfFieldBokehPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.787 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.787 18437 18461 Info Unity 
+2026/09/22 13:03:33.789 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/CameraMotionBlur' is not supported or has been stripped from the build (in 'MotionBlur'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.Universal.MotionBlurPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.789 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.789 18437 18461 Info Unity 
+2026/09/22 13:03:33.791 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/PaniniProjection' is not supported or has been stripped from the build (in 'PaniniProjection'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.Universal.PaniniProjectionPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.791 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.791 18437 18461 Info Unity 
+2026/09/22 13:03:33.793 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.793 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.793 18437 18461 Info Unity 
+2026/09/22 13:03:33.794 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.794 18437 18461 Info Unity 
+2026/09/22 13:03:33.794 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.794 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.794 18437 18461 Info Unity 
+2026/09/22 13:03:33.795 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.795 18437 18461 Info Unity 
+2026/09/22 13:03:33.795 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.795 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.795 18437 18461 Info Unity 
+2026/09/22 13:03:33.796 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.796 18437 18461 Info Unity 
+2026/09/22 13:03:33.796 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.796 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.796 18437 18461 Info Unity 
+2026/09/22 13:03:33.797 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.797 18437 18461 Info Unity 
+2026/09/22 13:03:33.797 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.797 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.797 18437 18461 Info Unity 
+2026/09/22 13:03:33.798 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.798 18437 18461 Info Unity 
+2026/09/22 13:03:33.798 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.798 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.798 18437 18461 Info Unity 
+2026/09/22 13:03:33.799 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.799 18437 18461 Info Unity 
+2026/09/22 13:03:33.799 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.799 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.799 18437 18461 Info Unity 
+2026/09/22 13:03:33.800 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.800 18437 18461 Info Unity 
+2026/09/22 13:03:33.800 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.800 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.800 18437 18461 Info Unity 
+2026/09/22 13:03:33.801 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.801 18437 18461 Info Unity 
+2026/09/22 13:03:33.801 18437 18461 Info Unity Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Logger:Log(LogType, Object)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcessUtils:LoadShader(Shader, String, LogType)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.BloomPostProcessPass:.ctor(Shader)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.PostProcess:.ctor(PostProcessData)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2D:.ctor(Renderer2DData)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.Renderer2DData:Create()
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreateRenderers()
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset:CreatePipeline()
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
+2026/09/22 13:03:33.801 18437 18461 Info Unity UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
+2026/09/22 13:03:33.801 18437 18461 Info Unity 
+2026/09/22 13:03:34.268 18437 18461 Debug Unity ANativeWindow: (720/1600) RequestedResolution: (0/0) RenderingResolution: (0/0) EGLSurface: (720/1600)
+2026/09/22 13:03:34.274 18437 18495 Debug Unity Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+2026/09/22 13:03:35.171 18437 18495 Debug Unity Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+2026/09/22 13:03:37.177 18437 18497 Debug Unity Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+2026/09/22 13:03:38.029 18437 18493 Debug Unity Curl error 6: Could not resolve host: engine-data.unity3d.com
+2026/09/22 13:03:48.104 18437 18495 Debug Unity Curl error 6: Could not resolve host: engine-data.unity3d.com
+2026/09/22 13:04:07.175 18437 18495 Debug Unity Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+2026/09/22 13:04:08.412 18437 18494 Debug Unity Curl error 6: Could not resolve: engine-data.unity3d.com:443
+2026/09/22 13:04:48.812 18437 18496 Debug Unity Curl error 6: Could not resolve: engine-data.unity3d.com:443
+2026/09/22 13:05:07.173 18437 18495 Debug Unity Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
