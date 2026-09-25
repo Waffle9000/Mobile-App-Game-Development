@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/journal.md",
+                "file": "docs/mda-onepager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "journal"
+              "title": "mda-onepager"
             }
           }
         ]
@@ -188,17 +188,20 @@
   },
   "active": "e0594ce172656d24",
   "lastOpenFiles": [
-    "Library/Bee/buildprogram1.traceevents",
-    "Library/Bee/artifacts/Android/ManagedStripped/Unity.InternalAPIEngineBridge.004.dll",
-    "Library/Bee/artifacts/Android/ManagedStripped/Unity.TextMeshPro.dll",
-    "Library/ShaderCache/shader/TMP_SDF-Mobilefe39/00/efccceb244035da52dc3e75444fbbe7c.bin",
-    "Library/ShaderCache/shader/TMP_SDF-Mobilefe39/00/39ac0f674a2bd75d1b7d3f7f05b9e6c2.bin",
-    "Library/ShaderCache/shader/TMP_SDF-Mobilefe39/00/91e3caec2624f2183d2addf624a36b52.bin",
-    "Library/ShaderCache/shader/TMP_SDF-Mobilefe39/00/aed4ec2c51224045697b84d112618ab1.bin",
-    "Temp/Burst/burst-aotzupilh3b.4ck/lib_burst_generated_part_fb9127074f4527bed65fcc452aa57d7e.o",
-    "Temp/Burst/burst-aotzupilh3b.4ck/lib_burst_generated_part_fa81cb59f1bc92c1118cab7cddccf7fe.o",
-    "Temp/Burst/burst-aotzupilh3b.4ck/lib_burst_generated_part_f531652faf1e45081f68869b8a72d6da.o",
-    "Temp/Burst/burst-aotzupilh3b.4ck/lib_burst_generated_part_e6a9132d09c113f0975355db1c7ee6e9.o",
+    "docs/journal.md",
+    "Temp/UnityTempFile-d39f936b3f929d448b9aa6e481e06380",
+    "Temp/UnityTempFile-2f1efe7bf132aa14495385f12c49bd04",
+    "Temp/UnityTempFile-bc1281f863e262a4c8cd3a4e55ed1b88",
+    "Temp/Burst/burst-aotqtrn2xlf.wfw",
+    "Temp/Burst/burst-aotpknjyg1p.a3l",
+    "Temp/Burst/burst-aotpguz0nvr.fwn",
+    "Temp/Burst/burst-aotpfahsruc.jc2",
+    "Temp/Burst/burst-aotpegcxj0o.f1f",
+    "Temp/Burst/burst-aotpc2l202s.nmj",
+    "Temp/Burst/burst-aotp5fwv3x5.nno",
+    "docs/CA1/accessibility-pass.md",
+    "Mobile Game Dev Vault/Labsheets/W03-LabB-LabSheet.md",
+    "Mobile Game Dev Vault/W03-LabB-LabSheet.md",
     "Temp/Export Package/90a1dc8e634ec52fed12b354e54932cd/e73a58f6e2794ae7b1b7e50b7fb811b0/preview.png",
     "Temp/Export Package/90a1dc8e634ec52fed12b354e54932cd/79459efec17a4d00a321bdcc27bbc385/preview.png",
     "Library/PackageCache/com.unity.mobile.android-logcat@a8a404f035b3/Editor/Textures/UpArrow.png",
@@ -230,9 +233,6 @@
     "Library/PackageCache/com.unity.mobile.android-logcat@a8a404f035b3/Documentation~/connect-to-a-device.md",
     "Library/PackageCache/com.unity.mobile.android-logcat@a8a404f035b3/Documentation~/android-logcat-window.md",
     "Library/PackageCache/com.unity.mobile.android-logcat@a8a404f035b3/Documentation~/android-logcat-window-reference.md",
-    "Library/PackageCache/com.unity.mobile.android-logcat@a8a404f035b3/Documentation~/android-logcat-window-message-log-filter.md",
-    "Library/PackageCache/com.unity.mobile.android-logcat@a8a404f035b3/Documentation~/android-logcat-window-message-log-customize.md",
-    "Library/PackageCache/com.unity.mobile.android-logcat@a8a404f035b3/Documentation~/android-logcat-settings.md",
-    "Library/PackageCache/com.unity.mobile.android-logcat@a8a404f035b3/README.md"
+    "Library/PackageCache/com.unity.mobile.android-logcat@a8a404f035b3/Documentation~/android-logcat-window-message-log-filter.md"
   ]
 }
