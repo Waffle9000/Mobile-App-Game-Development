@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labsheets/W02-LabB-LabSheet.md",
+                "file": "Labsheets/W03-LabB-LabSheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W02-LabB-LabSheet"
+              "title": "W03-LabB-LabSheet"
             }
           }
         ]
@@ -188,8 +188,8 @@
   "active": "3ad4cf17bd6cc4f1",
   "lastOpenFiles": [
     "Labsheets/W03-LabA-LabSheet.md",
-    "Labsheets/W02-LabB-LabSheet.md",
     "Labsheets/W03-LabB-LabSheet.md",
+    "Labsheets/W02-LabB-LabSheet.md",
     "Labsheets/W02-LabA-LabSheet (1).md",
     "Labsheets/W01-LabSheet.md",
     "README.md",
