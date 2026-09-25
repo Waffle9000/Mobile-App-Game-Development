@@ -186,8 +186,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "abd3416b0d9c9482",
+  "active": "e0594ce172656d24",
   "lastOpenFiles": [
+    "docs/CA2/baseline/w03-profile.zip",
+    "docs/CA2/baseline/bottleneck-01.md",
+    "docs/CA2/baseline/w03-bad-frame.png",
+    "docs/CA2/baseline/Bottleneck-01.md",
+    "docs/CA2/baseline/New Text Document.txt",
+    "docs/CA2/baseline/w03-gpu-pass.png",
+    "Temp/UnityTempFile-7facf385f25a4d243a0e26aee3328895",
+    "docs/CA2/baseline/Mobile App Game Dev_2026-09-25_16-28-16.zip",
     "Library/BuildHistory/20260925-162632Z-39a9f23f/BuildPlayerTEP.json",
     "Library/BuildHistory/20260925-162632Z-39a9f23f/39a9f23f161f26846be4656ed9c72952.buildreport",
     "Library/BuildHistory/20260925-162632Z-39a9f23f/ContentSizeSummary.txt",
@@ -195,10 +203,6 @@
     "Temp/ADB-Refresh663ba47f03fcc6f4a8168ef214370c73",
     "build/MyGame-0.1.0_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Unity.MemoryProfiler_CodeGen.c",
     "build/MyGame-0.1.0_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/Unity.MemoryProfiler.cpp",
-    "Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/stripped_native_libs/debug/stripDebugDebugSymbols/out/lib/armeabi-v7a/lib_burst_generated.so.temp-stream-74ead0",
-    "Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/2r1i585t/logs/armeabi-v7a/generate_cxx_metadata_237_timing.txt",
-    "Library/Bee/artifacts/objcopy_b9ry/libil2cpp.so.temp-stream-f3068b",
-    "Library/Bee/artifacts/objcopy_b9ry/stripped/libil2cpp.so.temp-stream-a9a766",
     "docs/CA2/baseline/W03-Bad-Frame.png",
     "ProfilerCaptures/Mobile App Game Dev_2026-09-25_16-28-16.png",
     "MemoryCaptures/Mobile App Game Dev_2026-09-25_16-25-17.png",
@@ -207,8 +211,6 @@
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Editor/UI/Analysis/Breakdowns/Summary/ResidentMemorySummary/Memory-Light.png",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Editor/UI/Analysis/Breakdowns/Summary/ResidentMemorySummary/Memory-Dark.png",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Editor/UI/Icons/UnityObjectIcon@3x.png",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Editor/UI/Icons/UnityObjectIcon@2x.png",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Editor/UI/Icons/UnityObjectIcon.png",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/whats-new.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/TableOfContents.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/snapshots.md",
@@ -231,8 +233,6 @@
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/find-memory-leaks.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/README.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/LICENSE.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/CHANGELOG.md",
-    "docs/mda-onepager.md",
-    "docs/journal.md"
+    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/CHANGELOG.md"
   ]
 }
