@@ -1,6 +1,6 @@
 | Field | Row 1 |
 |-------|-------|
-| Date, commit, versionName / versionCode, Release or Dev, Unity version | 28 Sep 2026, COMMIT, 0.1.1 / CODE, Release, 6000.6.0f1 |
+| Date, commit: 7e84603, versionName / versionCode, Release or Dev, Unity version | 28 Sep 2026, COMMIT, 0.1.1 / CODE, Release, 6000.6.0f1 |
 | Device model, Android version, SoC / GPU, graphics API, refresh rate | Samsung SM-A025F, Android 12, Adreno 506, OpenGL ES 3, 60 Hz |
 | Target fps | 60 |
 | Menu: avg ms / p99 ms | 16.71 / 16.88 |

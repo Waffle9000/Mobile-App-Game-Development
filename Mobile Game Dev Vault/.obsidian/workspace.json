@@ -193,7 +193,12 @@
     "Labsheets/W02-LabB-LabSheet.md",
     "Labsheets/W02-LabA-LabSheet (1).md",
     "Labsheets/W01-LabSheet.md",
+<<<<<<< Updated upstream
     "Labsheets",
+=======
+    "Labsheets/W03-LabB-LabSheet.md",
+    "README.md",
+>>>>>>> Stashed changes
     "Docs/README.md"
   ]
 }

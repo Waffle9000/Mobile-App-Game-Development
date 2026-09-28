@@ -188,6 +188,7 @@
   },
   "active": "abd3416b0d9c9482",
   "lastOpenFiles": [
+    "docs/CA2/baseline/image.png",
     "docs/CA2/baseline/baseline-sheet.md",
     "docs/CA2/baseline/New Text Document.txt",
     "Library/BuildHistory/20260928-161149Z-d9cb0b83/BuildPlayerTEP.json",
@@ -232,7 +233,6 @@
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/memory-profiler-install.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/memory-on-device.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/managed-shell-objects.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/main-component.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/inspect-memory-usage.md"
+    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/main-component.md"
   ]
 }
