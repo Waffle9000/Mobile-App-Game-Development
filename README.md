@@ -46,3 +46,6 @@ Keystore file location: C:\Users\achik\Desktop\Keystores
 Keystore file name: mygame-release.keystore
 Keystore Alias: mygame
 Validity: 50 years
+
+Disclaimer:
+I used Claude (Anthropic) as a step-by-step guide while working through the lab sheets, mainly to explain settings and error logs. I reviewed and edited everything it suggested. All builds, installs and measurements were carried out by me on my own device.

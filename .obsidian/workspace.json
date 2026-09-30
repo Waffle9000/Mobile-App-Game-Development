@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/journal.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "journal"
+              "title": "README"
             }
           }
         ]
@@ -186,20 +186,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "abd3416b0d9c9482",
+  "active": "e0594ce172656d24",
   "lastOpenFiles": [
+    "docs/journal.md",
+    "Mobile Game Dev Vault/Labsheets/W04-LabA-LabSheet.md",
+    "Mobile Game Dev Vault/W04-LabA-LabSheet.md",
+    "Temp/UnityTempFile-0a05cd9db5157524cba9b97dc7449acb",
+    "Temp/UnityTempFile-4cf0c85beebf6e34fadeeab2a8fb97ec",
+    "Temp/UnityTempFile-bf6b28147bcfc584ab32c4a40a4cadcf",
+    "Temp/ADB-Refresh9d41ec662c97b5147b33977c5a8ed67c",
+    "Temp/UnityTempFile-df23ecb7430665b42b0d244ad274eac4",
+    "Temp/UnityTempFile-2b014e7348bc25f4d970d93f28fb3f0d",
+    "Temp/UnityTempFile-e016e3300abd6614391551d739e4d411",
+    "docs/CA2/baseline/w03-sampler-log.png",
     "docs/CA2/baseline/image.png",
     "docs/CA2/baseline/baseline-sheet.md",
     "docs/CA2/baseline/New Text Document.txt",
     "Library/BuildHistory/20260928-161149Z-d9cb0b83/BuildPlayerTEP.json",
     "Library/BuildHistory/20260928-161149Z-d9cb0b83/d9cb0b836d9cf2c4fb3a0033340fbd60.buildreport",
-    "Library/BuildHistory/20260928-161149Z-d9cb0b83/ContentSizeSummary.txt",
-    "Temp/ADB-Refreshe53784b14a2af6c4482ea98d57e1452c",
-    "build/MyGame-0.1.1_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UnityConsentModule.cpp",
-    "build/MyGame-0.1.1_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UnityAnalyticsModule_CodeGen.c",
-    "build/MyGame-0.1.1_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UnityAnalyticsModule.cpp",
-    "build/MyGame-0.1.1_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UnityAnalyticsCommonModule_CodeGen.c",
-    "build/MyGame-0.1.1_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/UnityEngine.UnityAnalyticsCommonModule.cpp",
     "Mobile Game Dev Vault/Labsheets/W03-LabB-LabSheet.md",
     "Mobile Game Dev Vault/Labsheets/W03-LabA-LabSheet.md",
     "Mobile Game Dev Vault/Labsheets/W02-LabB-LabSheet.md",
@@ -215,8 +219,6 @@
     "ProfilerCaptures/Mobile App Game Dev_2026-09-21_20-41-15.png",
     "ProfilerCaptures/Mobile App Game Dev_2026-09-21_20-39-55.png",
     "ProfilerCaptures/Mobile App Game Dev_2026-09-21_20-39-53.png",
-    "ProfilerCaptures/Mobile App Game Dev_2026-09-21_20-39-20.png",
-    "ProfilerCaptures/Mobile App Game Dev_2026-09-21_20-39-10.png",
     "docs/CA2/baseline/Bottleneck-01.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/whats-new.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/TableOfContents.md",
@@ -231,8 +233,6 @@
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/memory-profiler-window-reference.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/memory-profiler-introduction.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/memory-profiler-install.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/memory-on-device.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/managed-shell-objects.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/main-component.md"
+    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/memory-on-device.md"
   ]
 }
