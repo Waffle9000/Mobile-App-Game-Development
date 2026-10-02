@@ -39,6 +39,17 @@ adb logcat -s Unity
   https://support.google.com/googleplay/android-developer/answer/11926878
 - Tested devices: see `docs/CA1/device-matrix.md`
 
+
+## Branching
+- `main` holds working, tested builds.
+- New features go on `feat/<name>` branches (e.g. `feat/missions`), bug fixes on `fix/<name>`
+  (e.g. `fix/swipe-on-release`), then merge into `main`.
+- Weeks 1–4 were committed straight to `main`; from Week 5 onwards all work uses `feat/` and `fix/` branches.
+
+## Versioning
+- Package name: `com.archil.whopper`. It was changed once in Week 4 (from `com.archil.Whopper`)
+  to follow the lower-case convention, before any release. It will not change again.
+- versionCode is increased for every release build (currently 4, versionName 0.2.0).
 ## Signing
 - Keystore file: `mygame-release.keystore`, stored **outside the repo**
   (local Desktop/Keystores folder, backup on OneDrive)

@@ -87,3 +87,28 @@ The first core verb for my game would be to swipe(dodge/turn) and the first thin
 - Cold start (median of 3): Displayed 716 ms (731 / 716 / 713)
 - First interactive (Fully drawn, median): 2.46 s (2.506 / 2.464 / 2.459)
 - APK size: 71.0 MB (MyGame-0.1.1.apk, ARMv7 + ARM64)
+
+
+## Reflections
+
+### Week 2 – Lifecycle, accessibility, scope
+Pausing on Home, calls and notifications was easy with OnApplicationPause/Focus, but I learned
+that Time.timeScale = 0 does not stop Update, so input had to be gated separately.
+The accessibility pass was the most useful part: my buttons were only ~20 dp and the haptics
+label was unreadable in greyscale, which I would never have noticed on the editor.
+I switched the game to portrait and set the Canvas Scaler to Scale With Screen Size,
+because the UI was tiny on a real phone. Score saving on force-stop is still not done.
+
+### Week 3 – Profiling
+I learned to read the Profiler on the device instead of the editor. My game is CPU-bound,
+not GPU-bound: halving the render scale barely changed frame time. The 200 stress cubes were
+drawn one by one (199 draw calls) because their default material is not URP, so the SRP Batcher
+could not group them. Frame time is a steady 16.7 ms with p99 under 17 ms, well inside my budget.
+
+### Week 4 – Release pipeline and CA1
+My test phone (Galaxy A02s) only runs 32-bit ARMv7 builds, so release builds include ARMv7 + ARM64.
+I changed the package name once to all lower case (com.archil.whopper) before any release, and
+it will not change again. versionCode is 4 because earlier test builds had used 1–3.
+I learned that Unity added an INTERNET permission and tries to contact Unity's servers, so my
+privacy statement had to describe that honestly rather than claim "no network".
+Testing on a second phone (Galaxy S25, Android 16) showed no layout issues.
