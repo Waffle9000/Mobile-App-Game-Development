@@ -188,6 +188,13 @@
   },
   "active": "e0594ce172656d24",
   "lastOpenFiles": [
+    "docs/dev-journal.md",
+    "docs/CA1/mda-onepager.md",
+    "docs/CA1/device-screenshot.png",
+    "docs/CA1/privacy-statement.md",
+    "docs/CA1/descriptions.md",
+    "docs/CA1/store-assets-checklist.md",
+    "docs/CA1/New Text Document.txt",
     "Releases/MyGame-0.2.0-arm64_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib__9.cpp",
     "Releases/MyGame-0.2.0-arm64_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib__8.cpp",
     "Releases/MyGame-0.2.0-arm64_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib__7.cpp",
@@ -197,8 +204,6 @@
     "Releases/MyGame-0.2.0-arm64_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib__3.cpp",
     "Releases/MyGame-0.2.0-arm64_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib__10.cpp",
     "Releases/MyGame-0.2.0-arm64_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib__1.cpp",
-    "Releases/MyGame-0.2.0-arm64_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib_CodeGen.c",
-    "Releases/MyGame-0.2.0-arm64_BackUpThisFolder_ButDontShipItWithYourGame/il2cppOutput/mscorlib.cpp",
     "docs/CA1/device-matrix.md",
     "docs/CA1/device-Matrix.md",
     "Mobile Game Dev Vault/Labsheets/W04-LabB-LabSheet.md",
@@ -223,16 +228,11 @@
     "ProfilerCaptures/Mobile App Game Dev_2026-09-21_20-43-00.png",
     "ProfilerCaptures/Mobile App Game Dev_2026-09-21_20-41-15.png",
     "ProfilerCaptures/Mobile App Game Dev_2026-09-21_20-39-55.png",
-    "ProfilerCaptures/Mobile App Game Dev_2026-09-21_20-39-53.png",
     "docs/CA2/baseline/Bottleneck-01.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/whats-new.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/TableOfContents.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/snapshots.md",
     "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/snapshots-concepts.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/snapshots-component.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/snapshots-comparison.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/snapshot-capture.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/selection-details-component.md",
-    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/references-component.md"
+    "Library/PackageCache/com.unity.memoryprofiler@485b5ba42ef5/Documentation~/snapshots-component.md"
   ]
 }

@@ -18,3 +18,5 @@ Success
 
 Note: versionCode is 4 (not 2 as in the lab sheet), because earlier test builds
 had already used codes 1–3 on this phone and Android refuses downgrades.
+
+Screenshot taken on Samsung Galaxy A02s (SM-A025F), Android 12.
