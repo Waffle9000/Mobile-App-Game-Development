@@ -89,6 +89,46 @@ The first core verb for my game would be to swipe(dodge/turn) and the first thin
 - APK size: 71.0 MB (MyGame-0.1.1.apk, ARMv7 + ARM64)
 
 
+---
+
+## Date: 07/10/2026
+
+### Week 5 Lab A – Part A (Scene flow)
+
+- Added Boot > Menu > Game > Result scenes (Bootstrap, SceneLoader).
+- GameManager with states (Playing, Paused, Won, Lost) and a StateChanged event, hooked into LifecycleGuard.
+- Score: 10 per second survived, shown in Game and on Result. Retry reloads Game.
+- Feedback on core verb: haptic pulse when the player hits a hazard.
+
+### Week 5 Lab A – Part B (Coroutines)
+
+- Coroutine hunt (IEnumerator / StartCoroutine / WaitForSeconds): none found.
+- Nothing to convert, so HazardSpawner was written with Awaitable from the start, with a cancellation token linked to Application.exitCancellationToken.
+
+### Week 5 Lab A – Part C (Pooling)
+
+- HazardPool prewarms 16 hazards; Spawn pops from a stack, Release deactivates and pushes back.
+- Hazards spawn in a random lane every 1.5 s, move toward the player and return to the pool behind the camera.
+- Hierarchy count under HazardPool stays at 16.
+
+### Week 5 Lab A – Part D (Profile on phone, dev build)
+
+- Device: SM-A025F, Android 12
+- Frame time while spawning: avg 16.71 ms / p99 16.80 ms
+- GC allocated per frame: 18 B (was 59 B in Week 3)
+    - PostLateUpdate.PlayerSendFrameStarted – 9 B
+    - PreUpdate.NewInputUpdate – 9 B
+    - 0 B from spawner, pool and hazards.
+- Capture: docs/CA2/baseline/w05-spawner.data
+- Release build: MyGame-0.3.0-arm64.apk (0.3.0, versionCode 5)
+
+### Fixes
+
+- Git refused to create feat/scene-flow because old branches named `feat` and `fix` existed. Deleted them (both were merged into main).
+- Project was made with the 2D template. Switched to the Universal (3D) Renderer, Perspective camera, Directional Light and a URP Lit material.
+- New Menu and Result UI was tiny; set their Canvas Scalers to Scale With Screen Size and resized the buttons and settings toggles.
+- Hazards kept spawning and moving while paused. GameManager now sets Time.timeScale to 0 on pause and 1 on resume.
+
 ## Reflections
 
 ### Week 2 – Lifecycle, accessibility, scope
