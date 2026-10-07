@@ -13,7 +13,11 @@ public class GameManager : MonoBehaviour
     public float Score { get; private set; }
     public event Action<State> StateChanged;
 
-    void Awake() => Instance = this;
+  void Awake()
+{
+    Instance = this;
+    Time.timeScale = 1f;
+}
     void OnEnable()  => LifecycleGuard.PausedChanged += OnPaused;
     void OnDisable() => LifecycleGuard.PausedChanged -= OnPaused;
 
@@ -22,12 +26,12 @@ public class GameManager : MonoBehaviour
         if (Current == State.Playing) Score += Time.deltaTime * 10f;
     }
 
-    void OnPaused(bool paused)
-    {
-        if (paused && Current == State.Playing) SetState(State.Paused);
-        else if (!paused && Current == State.Paused) SetState(State.Playing);
-    }
-
+  void OnPaused(bool paused)
+{
+    Time.timeScale = paused ? 0f : 1f;
+    if (paused && Current == State.Playing) SetState(State.Paused);
+    else if (!paused && Current == State.Paused) SetState(State.Playing);
+}
     public void SetState(State s)
     {
         if (s == Current) return;
